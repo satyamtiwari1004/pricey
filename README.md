@@ -47,7 +47,7 @@ Make sure you have the following installed:
 
 4. **Set up the .env file:**
 
-Create a .env file in the root directory of the project and add the following variables with your specific details:
+   Create a .env file in the root directory of the project and add the following variables with your specific details:
 
    ```bash 
    SECRET_KEY=your_secret_key
