@@ -98,4 +98,4 @@ Contributions are welcome! Please fork the repository and use a feature branch. 
 	
 ## License   
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the LICENSE file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE](https://github.com/satyamtiwari1004/pricey/blob/main/LICENSE) file for details.
